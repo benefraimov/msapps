@@ -1,0 +1,2 @@
+export const IMPORT_ITEMS = "IMPORT_ITEMS"
+export const IMPORT_ITEMS_FAIL = "IMPORT_ITEMS_FAIL"
